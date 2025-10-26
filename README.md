@@ -37,14 +37,19 @@ This interactive **Power BI dashboard** provides a comprehensive analysis of the
 |-----------|
 <img width="1176" height="688" alt="image" src="https://github.com/user-attachments/assets/222a6b72-7c05-40c6-9f75-27e27456fc25" />
 
-| ![Executive Summary](screenshots/executive_summary.png) |
+
 <img width="1161" height="659" alt="image" src="https://github.com/user-attachments/assets/b50b26d7-25d0-4cd2-8246-7152d9383f9c" />
 
-| ![Nifty 50 Analysis](screenshots/nifty_analysis.png) |
 <img width="1176" height="670" alt="image" src="https://github.com/user-attachments/assets/d65a545b-b511-4263-9ce5-ea3f07362447" />
 
-| ![Sector Analysis](screenshots/sectorwise.png) |
+
 <img width="1169" height="661" alt="image" src="https://github.com/user-attachments/assets/796172c0-1291-437b-94fe-59eb828ceae1" />
+
+<img width="1179" height="665" alt="image" src="https://github.com/user-attachments/assets/ea042283-da73-4749-bd05-8262c89995ae" />
+
+<img width="1174" height="665" alt="image" src="https://github.com/user-attachments/assets/946a9c91-8403-461d-b167-74b1b099e1c7" />
+
+
 
 
 ---
