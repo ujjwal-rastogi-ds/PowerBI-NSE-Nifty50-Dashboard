@@ -76,7 +76,7 @@ This interactive **Power BI dashboard** provides a comprehensive analysis of the
 
 **Ujjwal Rastogi**  
 Data Analyst & AI Enthusiast  
-📫 Contact: (Add LinkedIn/GitHub badges)
+📫 Contact: rastogiujjwal58@gmail.com
 
 ---
 
